@@ -1,0 +1,46 @@
+_repo: Letters-on-England_2445
+_version: 0.0.1
+alternative_title: Lettres sur les Anglais. English
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_bookshelf:
+- Harvard Classics
+- United Kingdom
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Civilization -- 18th century'
+- !lcsh 'Great Britain -- Religion'
+- !lcsh 'Great Britain -- Intellectual life -- 18th century'
+- !lcsh 'Philosophy, Modern -- 18th century'
+- !lcsh 'Imaginary letters'
+- !lcsh 'English literature -- 18th century -- History and criticism'
+- !lcc 'PQ'
+- GITenberg
+title: Letters on England
+url: http://www.gutenberg.org/ebooks/2445
