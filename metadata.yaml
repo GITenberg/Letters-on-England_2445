@@ -1,6 +1,9 @@
 _repo: Letters-on-England_2445
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Lettres sur les Anglais. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Voltaire
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2445#Letters-on-England
 gutenberg_bookshelf:
 - Harvard Classics
 - United Kingdom
